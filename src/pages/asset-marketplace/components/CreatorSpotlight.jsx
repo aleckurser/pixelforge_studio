@@ -37,7 +37,7 @@ const CreatorSpotlight = ({ onFollowCreator, onViewCreatorProfile }) => {
       totalDownloads: 567890,
       rating: 4.8,
       isVerified: true,
-      isFollowing: true,
+      isFollowing: false,
       bio: 'Professional photographer capturing the beauty of our natural world. Available for commercial licensing.',
       recentAssets: [
         'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=100&h=100&fit=crop',

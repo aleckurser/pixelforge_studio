@@ -6,8 +6,8 @@ import Button from '../../../components/ui/Button';
 const FeaturedCollections = ({ onViewCollection }) => {
   const collections = [
     {
-      id: 'trending-2024',
-      title: 'Trending in 2024',
+      id: 'trending-2025',
+      title: 'Trending in 2025',
       description: 'The most popular assets this year',
       curator: 'PixelForge Team',
       assetCount: 156,
